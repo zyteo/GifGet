@@ -82,8 +82,8 @@ function App() {
         <Gif url={gifdata?.data?.images?.original?.url} clickFav={clickFav} />
         <div className="favourites">
           <ul>
-            Favourites list (Click on your favourite gif!)
-            
+          &#9734;&#9734;&#9734;Favourites&#9734;&#9734;&#9734; list (Click on your favourite gif!)
+
             {allFav}
           </ul>
         </div>
