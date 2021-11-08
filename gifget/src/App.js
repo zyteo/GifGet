@@ -81,11 +81,15 @@ function App() {
         <button onClick={handleToggle}>RANDOM GIF</button>
         <Gif url={gifdata?.data?.images?.original?.url} clickFav={clickFav} />
         <div className="favourites">
-          <ul>
-          &#9734;&#9734;&#9734;Favourites&#9734;&#9734;&#9734; list (Click on your favourite gif!)
-
-            {allFav}
-          </ul>
+          <p>
+            &#9734;&#9734;&#9734;Favourites&#9734;&#9734;&#9734; list (Click on
+            your favourite gif!)
+          </p>
+          <p>
+            Also note the favourites list will be gone everytime you refresh /
+            leave the page!
+          </p>
+          <ul>{allFav}</ul>
         </div>
       </div>
     </>
