@@ -40,9 +40,10 @@
   }
 }
 
-a {
+a.fav {
   display: grid;
   font-size: 10px;
+  color: crimson;
 }
 
 input {
