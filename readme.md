@@ -5,7 +5,7 @@
 
 Get a gif based on your search. Or get a random gif. Just for the lols.
 
-##### ============Explore the app here: https://gifget.vercel.app/ ================
+## Explore the app [here](https://gifget.vercel.app/)
 
 I made this for all my gif-loving friends! Spun up with reactJS.
 
