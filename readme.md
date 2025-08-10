@@ -9,8 +9,6 @@ Get a gif based on your search. Or get a random gif. Just for the lols.
 
 I made this for all my gif-loving friends! Spun up with reactJS.
 
-Sorry there's limited styling! I'll make it look better when I have the time.
-
 Also note the favourites list will be gone everytime you refresh / leave the page!
 
 ## APIs
